@@ -19,5 +19,5 @@ func Div(x, y int) int {
 }
 
 func SayHi() {
-	fmt.Println("hello world")
+	fmt.Println("hello world!")
 }
