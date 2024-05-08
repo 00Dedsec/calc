@@ -1,5 +1,7 @@
 package calculator
 
+import "fmt"
+
 func Add(x, y int) int {
 	return x + y
 }
@@ -14,4 +16,8 @@ func Multi(x, y int) int {
 
 func Div(x, y int) int {
 	return x / y
+}
+
+func SayHi() {
+	fmt.Println("hello world")
 }
