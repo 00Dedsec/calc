@@ -1,8 +1,8 @@
 package main
 
 import (
-	"calc/calculator"
 	"fmt"
+	"github.com/00Dedsec/calc/calculator"
 )
 
 func main() {
